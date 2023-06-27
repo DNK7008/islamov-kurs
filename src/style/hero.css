@@ -1,0 +1,65 @@
+.hero {
+    padding-top: 62px;
+    padding-bottom: 71px;
+}
+
+.hero__container {
+    display: flex;
+    align-items: center;
+}
+
+.hero__image {
+    margin-right: 122px;
+}
+
+
+.hero__text {}
+
+.hero__author {
+    display: block;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 22px;
+}
+
+.hero__title {
+    font-size: 54px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+
+.hero__subtitle {
+    display: block;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 48px;
+}
+
+.hero__info {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+
+}
+
+.hero__list {
+    flex-basis: 45%;
+    margin-bottom: 16px;
+}
+
+.hero__format {}
+
+.hero__type {}
+
+.hero__age {}
+
+.hero__priceBlock {}
+
+.hero__price {}
+
+.hero__faivorites {}
+
+.hero__buttons {}
+
+.hero__button {}
